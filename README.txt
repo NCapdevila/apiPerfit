@@ -7,7 +7,8 @@ API que recibe datos de leads para enviarlos a Perfit y mandar un email al respo
 
 Endpoint
 --------
-POST {}
+POST 
+https://api-perfit.cebrokers.com.ar/enviar-a-perfit
 
 Headers
 -------
